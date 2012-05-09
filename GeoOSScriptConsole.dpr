@@ -500,6 +500,6 @@ begin
     exit; //terminate program
   end;
   FreeAll();
-  // THE END
+  // WTF
   readln;
 end.
